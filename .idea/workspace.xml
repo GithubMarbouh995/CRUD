@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a242b19e-1093-41d8-be86-3dcdf708f9ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/AfficherLesDisques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/CommanderUnDisque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/Disque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/EnregistrerCommande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/FiltreAuthorisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/FiltrerechercheNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/Identification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/InscriptionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/ViderPanier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/java/com/example/demotp1jee/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTp1Jee/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/JBDC_C/.idea/JBDC_C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/crypto/crypto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/exojava/exojava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/java_1/java_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/java_cours/java_cours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/project_java-new_project_structure_updated/out/production/project_java-Maryam/project_java/project_java-Maryam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/project_java-new_project_structure_updated/out/production/project_java/project_java/project_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/project_java-new_project_structure_updated/project_java-Maryam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/serialisation_deserialisation/.idea/serialisation_deserialisation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/serialisation_deserialisation/serialisation_deserialisatio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNative/untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/BrandDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/BrandServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/ConnexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/EditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5JEE/src/main/java/com/example/demo5jee/add_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/BrandServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/EditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/LangageFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/ListDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Controller/Signin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Dao/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Dao/BrandDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Dao/ConnexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Dao/UserDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Model/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/add_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/i18n/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/java/com/example/demoecommerce/i18n/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/accueil1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/accueil2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/add_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/css/tabler-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/fonts/tabler-icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/fonts/tabler-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/fonts/tabler-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/fonts/tabler-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/chair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/chair2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/chair3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/chair4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/icon-flag-cn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/icon-flag-en.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/icon-flag-fr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/icon-flag-sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/line-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/logo-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/logo-light-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/logo-light-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/logo-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/make-social-media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/material-pro-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/profile-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/tabler-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/images/user-info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/apexcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/app.dark.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/breadcrumbChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/dashboard6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/iconify-icon.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/sidebarmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/simplebar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/navbar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/signin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoEcommerce/src/main/webapp/signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/src/main/java/com/example/demoimcjee/Controller/TraitServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/src/main/java/com/example/demoimcjee/Model/Traitement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoImcJee/src/main/webapp/affiche.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/src/main/java/com/example/demojee/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/src/main/java/com/example/demojee/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/src/main/java/com/example/demojee/VerifSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJEE/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/src/main/java/com/example/demotpjee/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTpJee/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_2v_JEE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/BrandDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/ConnexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/java/com/example/demo_3_jee/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/webapp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_3_jee/src/main/webapp/navigation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_4JEE/src/main/java/com/example/demo_4jee/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_4JEE/src/main/webapp/traitement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/BrandDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/BrandServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/ConnexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/EditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/UserDaoimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/java/com/example/demoe_2jee/add_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/add_shopping_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/signin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoe_2JEE/src/main/webapp/signup.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/DollarConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/JsfServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/LangageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/java/com/example/demojfs/Validatorp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/resources/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/index2.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/index3.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojfs/src/main/webapp/users.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojpas/src/main/java/org/example/Methodjpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojpas/src/main/java/org/example/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojpas/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojst/src/main/webapp/FactTrips.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojst/src/main/webapp/WEB-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojst/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demojst/src/main/webapp/product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/main/java/com/example/first/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/cours_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td2/Etablissement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td2/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours_java/src/package_td2/filiere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_1/java_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_cours/java_cours.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serialisation_deserialisation/.idea/serialisation_deserialisation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serialisation_deserialisation/serialisation_deserialisatio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_unitaire_avec_junit/src/main/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/src/main/java/org/example/td_2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/src/main/java/org/example/td_2/Etablissement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/src/main/java/org/example/td_2/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests_unitaire_avec_junit/src/main/java/org/example/td_2/filiere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dJeCafzTusWvnH97SL298jNcRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.18" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.18" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="3adc2860-105d-41af-b0c8-ab9e2d09228c" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60595" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a242b19e-1093-41d8-be86-3dcdf708f9ba" name="Changes" comment="" />
+      <created>1709730488741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709730488741</updated>
+      <workItem from="1709730489864" duration="6664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
