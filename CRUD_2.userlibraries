@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/fraij/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.2">
+    <archive path="C:/Users/fraij/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar" />
+  </library>
+  <library name="Maven: jakarta.servlet:jakarta.servlet-api:5.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.9.2">
+    <archive path="C:/Users/fraij/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.2">
+    <archive path="C:/Users/fraij/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/fraij/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.9.2">
+    <archive path="C:/Users/fraij/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.webjars:font-awesome:5.15.4">
+    <archive path="C:/Users/fraij/.m2/repository/org/webjars/font-awesome/5.15.4/font-awesome-5.15.4.jar" />
+  </library>
+  <library name="Maven: org.webjars.npm:bootstrap-icons:1.11.3">
+    <archive path="C:/Users/fraij/.m2/repository/org/webjars/npm/bootstrap-icons/1.11.3/bootstrap-icons-1.11.3.jar" />
+  </library>
+  <library name="Maven: org.webjars.npm:postcss-value-parser:4.1.0">
+    <archive path="C:/Users/fraij/.m2/repository/org/webjars/npm/postcss-value-parser/4.1.0/postcss-value-parser-4.1.0.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.25.1">
+    <archive path="C:/Users/fraij/.m2/repository/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.3.0">
+    <archive path="C:/Users/fraij/.m2/repository/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar" />
+  </library>
+  <library name="Maven: org.webjars:bootstrap:5.3.3">
+    <archive path="C:/Users/fraij/.m2/repository/org/webjars/bootstrap/5.3.3/bootstrap-5.3.3.jar" />
+  </library>
+  <library name="Maven: jakarta.inject:jakarta.inject-api:2.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.0/jakarta.inject-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.interceptor:jakarta.interceptor-api:2.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.0.0/jakarta.interceptor-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.el:jakarta.el-api:4.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/el/jakarta.el-api/4.0.0/jakarta.el-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-api:3.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/3.0.0/jakarta.enterprise.cdi-api-3.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:2.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.0.0/jakarta.annotation-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.glassfish:jakarta.faces:3.0.0">
+    <archive path="C:/Users/fraij/.m2/repository/org/glassfish/jakarta.faces/3.0.0/jakarta.faces-3.0.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
